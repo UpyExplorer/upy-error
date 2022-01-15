@@ -1,7 +1,6 @@
 # upy-error
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/upy-error)
-![PyPI - License](https://img.shields.io/pypi/l/upy-error)
 ![PyPI](https://img.shields.io/pypi/v/upy-error)
 ![GitHub last commit](https://img.shields.io/github/last-commit/UpyExplorer/upy-error)
 ![GitHub followers](https://img.shields.io/github/followers/UpyExplorer?label=UpyExplorer&style=social)
