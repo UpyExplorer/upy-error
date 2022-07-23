@@ -60,6 +60,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Fernando Celmer- email@fernandocelmer.com
+Fernando Celmer - email@fernandocelmer.com
 
-Project Link: [https://github.com/UpyExplorer/upy-error](https://github.com/UpyExplorer/upy-error)
+- Project Github: [https://github.com/UpyExplorer/upy-error](https://github.com/UpyExplorer/upy-error)
+- Project Pypi: [https://pypi.org/project/upy-error/](https://pypi.org/project/upy-error/)
