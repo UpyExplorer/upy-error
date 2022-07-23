@@ -19,3 +19,10 @@ class Style():
     BLUE = '\033[34m'
     WHITE = '\033[37m'
     END = '\033[0m'
+
+
+def separator():
+    """
+    Function to separate line
+    """
+    print(chr(61)*42)
