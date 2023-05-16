@@ -1,4 +1,4 @@
-__version__ = '0.0.3-dev.1'
+__version__ = '0.0.3-dev.2'
 
 __all__ = ['format_exception']
 
